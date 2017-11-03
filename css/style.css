@@ -1,0 +1,18 @@
+#profile{
+	    width: 300px;
+
+}
+footer#footer{
+	background-color: #008cba;
+    color: #fff;
+    text-align: center;
+    margin-top: 5px;
+    padding-bottom: 5px;
+    padding-top: 2px;
+}
+.aside{
+	float: right;
+}
+.section{
+	float: left;
+}
